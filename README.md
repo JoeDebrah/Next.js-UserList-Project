@@ -1,3 +1,45 @@
+# User Listing Website built using Nextjs
+---
+
+### Author Links
+
+👋 Hello there, I'm Joe Debrah
+
+✅ [Check out my other Web Development portfolio here on Github](https://github.com/JoeDebrah).
+
+---
+---
+
+🚀 Check out my Linkedin below:
+
+- [Github](https://github.com/JoeDebrah)
+- [LinkedIn](https://www.linkedin.com/in/joe-debrah-953972264/)
+
+---
+---
+
+### Description
+
+🛠️ This is an interesting project i built with the help of the resources available of the Next.js website. It is a simple website to display a bunch of users fetched from an external dummy api and was largely built with Next.js. 
+
+---
+## preview
+HomePage
+![Alt text](preview_screenshots/Home-page.png)
+Users Page
+![Alt text](preview_screenshots/Users.png)
+
+---
+
+🌅 [Check the preview_screenshots for a preview of the site](preview_screenshots) for this repository.
+
+---
+---
+### 📚 Website References
+- 🔗 [Bootstrap Official Website](https://getbootstrap.com/)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -14,21 +56,3 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
